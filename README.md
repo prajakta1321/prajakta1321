@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @prajakta1321
+- 👋 Hi, I’m prajakta
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python Projects
+- 🌱 I’m currently learning Python and ML
+- 💞️ I’m looking to collaborate on Python/ML Projects
 - 📫 How to reach me guravprajakta2001@gmail.com
 
 <!---
