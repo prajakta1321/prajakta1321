@@ -11,11 +11,22 @@
 OTHER HOBBIES     : READING ,
                     TRAVELLING.
 
+
+
+
 languages         : python 
+
+
+
 AI / ML platform  : colab ,
                     Sololearn.
-                   
+   
+   
+   
 other platforms   : Visual studio code
+
+
+
 
 SPECIALIZING :
 python libraries  : numpy 
@@ -23,7 +34,10 @@ python libraries  : numpy
                     matplotlib
                     seaborn
                     sklearn
-                   
+    
+    
+    
+    
 machine learning  : Supervised ML
                     clustering and regression
                     linear regression
@@ -33,6 +47,9 @@ machine learning  : Supervised ML
                     statistics
                     probability
                     Data visualization
+
+
+
 
 Artificial 
 Intelligence     :  Deep learning
