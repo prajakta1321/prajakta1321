@@ -19,7 +19,7 @@ languages         : python
 
 
 AI / ML platform  : colab ,
-                    Sololearn.
+Sololearn.
    
    
    
