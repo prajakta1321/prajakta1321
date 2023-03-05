@@ -4,31 +4,32 @@
 - 
 - 🌱 I’m currently learning Python and Machine learning 
 - 
-- Besides , ML i also am good in HTML , CSS AND JAVASCRIPT
+- 🐼Besides , ML i also am good in HTML , CSS AND JAVASCRIPT
 - 
 - 📫 How to reach me guravprajakta2001@gmail.com
 
-OTHER HOBBIES     : READING ,
+🐼OTHER HOBBIES     : READING ,
                     TRAVELLING.
 
 
 
 
-languages         : python 
+🐼languages         : python 🧑‍💻
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 
-AI / ML platform  : colab ,
+🐼AI / ML platform  : colab ,
 Sololearn.
    
    
    
-other platforms   : Visual studio code
+🐼other platforms   : Visual studio code
 
 
 
 
-SPECIALIZING :
+🐼SPECIALIZING :
 python libraries  : numpy 
                     pandas
                     matplotlib
@@ -38,7 +39,7 @@ python libraries  : numpy
     
     
     
-machine learning  : Supervised ML
+🐼machine learning  : Supervised ML
                     clustering and regression
                     linear regression
                     logistic regression
@@ -51,14 +52,14 @@ machine learning  : Supervised ML
 
 
 
-Artificial 
+🐼Artificial 
 Intelligence     :  Deep learning
                     computer vision
                     Digital Image processing
                     OpenCv
                     Neural Networks
                     
-Extras           :  HTML
+🐼Extras           :  HTML
                     CSS
                     JAVASCRIPT
            
