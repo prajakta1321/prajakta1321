@@ -25,7 +25,7 @@ Sololearn.
    
    
 🐼other platforms   : Visual studio code
-[![My Skills](https://skillicons.dev/icons?i=Visual studio code)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 
 
@@ -35,7 +35,7 @@ python libraries  : numpy
                     matplotlib
                     seaborn
                     sklearn
-    
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)    
     
     
     
@@ -48,7 +48,7 @@ python libraries  : numpy
                     statistics
                     probability
                     Data visualization
-
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 
 
