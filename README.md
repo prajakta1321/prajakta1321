@@ -21,7 +21,7 @@
 
 🐼AI / ML platform  : colab ,
 Sololearn.
-   
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)   
    
    
 🐼other platforms   : Visual studio code
