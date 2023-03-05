@@ -9,14 +9,14 @@
 - 📫 How to reach me guravprajakta2001@gmail.com
 
 🐼OTHER HOBBIES     : READING ,
-                    TRAVELLING.
+                    TRAVELLING.🌍🏕️🏝️
 
 
 
 
 🐼languages         : python 🧑‍💻
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-
+:octocat:
 
 
 🐼AI / ML platform  : colab ,
@@ -39,25 +39,25 @@ Sololearn.
     
     
     
-🐼machine learning  : Supervised ML
-                    clustering and regression
-                    linear regression
-                    logistic regression
-                    random forest
-                    tree based models ( decision tree , knn, support vector machines)
-                    statistics
-                    probability
-                    Data visualization
+🐼machine learning  : 🌼Supervised ML
+                    🌼clustering and regression
+                    🌼linear regression
+                    🌼logistic regression
+                    🌼random forest
+                    🌼tree based models ( decision tree , knn, support vector machines)
+                    🌼statistics
+                    🌼probability
+                    🌼Data visualization
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 
 
 🐼Artificial 
-🌱Intelligence     :  Deep learning
-                    computer vision
-                    Digital Image processing
-                    OpenCv
-                    Neural Networks
+🌱Intelligence     :  🍁Deep learning
+                    🍁computer vision
+                    🍁Digital Image processing
+                    🍁OpenCv
+                    🍁Neural Networks
                     
 🐼Extras           :  HTML
                     CSS
