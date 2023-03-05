@@ -1,8 +1,8 @@
-- 👋 Hi, I’m prajakta
+- 👋 Hi, I’m prajakta  :octocat:
 - 
 - 👀 A Machine Learning enthusiast/Researcher
 - 
-- 🌱 I’m currently learning Python and Machine learning 
+- 🌱 I’m currently learning Python and Machine learning :octocat:
 - 
 - 🐼Besides , ML i also am good in HTML , CSS AND JAVASCRIPT
 - 
@@ -15,13 +15,17 @@
 
 
 🐼languages         : python 🧑‍💻
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-:octocat:
 
+
+
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+ 
 
 🐼AI / ML platform  : colab ,
 Sololearn.
-#[![My Skills](https://skillicons.dev/icons?i=colab,sololearn,flutter&perline=0)](https://skillicons.dev)   
+
+
+  
    
    
 🐼other platforms   : Visual studio code
@@ -35,6 +39,9 @@ Sololearn.
                     🌱matplotlib
                     🌱seaborn
                     🌱sklearn
+
+
+
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)    
     
     
@@ -48,6 +55,9 @@ Sololearn.
                     🌼statistics
                     🌼probability
                     🌼Data visualization
+
+
+
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 
@@ -62,6 +72,7 @@ Sololearn.
 🐼Extras           :  HTML
                     CSS
                     JAVASCRIPT
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)           
 <!---
 prajakta1321/prajakta1321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
