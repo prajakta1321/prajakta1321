@@ -1,12 +1,13 @@
 - 👋 Hi, I’m prajakta  :octocat:
-- <p style="font-size:300px">This is a paragraph.</p>
-- 👀 A Machine Learning enthusiast/Researcher
-- 
+  👀 A Machine Learning enthusiast/Researcher
+
+
 - 🌱 I’m currently learning Python and Machine learning :octocat:
-- 
 - 🐼Besides , ML i also am good in HTML , CSS AND JAVASCRIPT
-- 
+
+
 - 📫 How to reach me guravprajakta2001@gmail.com
+
 
 🐼OTHER HOBBIES     : READING ,
                     TRAVELLING.🌍🏕️🏝️
