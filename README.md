@@ -1,5 +1,5 @@
 - 👋 Hi, I’m prajakta  :octocat:
-- 
+- <p style="font-size:30px">This is a paragraph.</p>
 - 👀 A Machine Learning enthusiast/Researcher
 - 
 - 🌱 I’m currently learning Python and Machine learning :octocat:
