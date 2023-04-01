@@ -1,5 +1,5 @@
 - 👋 Hi, I’m prajakta  :octocat:
-  👀 A Machine Learning enthusiast/Researcher
+  👀 A Machine Learning enthusiast
 
 
 - 🌱 I’m currently learning Python and Machine learning :octocat:
