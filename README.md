@@ -30,7 +30,7 @@ Sololearn.
    
    
 🐼other platforms   : Visual studio code
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio)]
+![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio)
 
 
 
