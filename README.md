@@ -15,8 +15,8 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+ ![My Skills](https://skillicons.dev/icons?i=vscode)
  
-
 🐼AI / ML platform  : colab ,
 Sololearn, Kaggle.
 
@@ -25,7 +25,7 @@ Sololearn, Kaggle.
    
    
 🐼other platforms   : Visual studio code
-![My Skills](https://skillicons.dev/icons?i=vscode)
+ 
 
 
 
