@@ -6,16 +6,11 @@
 - 🐼Besides , ML i also am good in HTML , CSS AND JAVASCRIPT
 
 
-- 📫 How to reach me guravprajakta2001@gmail.com
-
-
-🐼OTHER HOBBIES     : READING ,
-                    TRAVELLING.🌍🏕️🏝️
-
-
+- 📫 How to reach me strawberrykim1620@gmail.com
 
 
 🐼languages         : python 🧑‍💻
+                      HTML,  CSS,  JS
 
 
 
@@ -23,7 +18,7 @@
  
 
 🐼AI / ML platform  : colab ,
-Sololearn.
+Sololearn, Kaggle.
 
 
   
@@ -69,10 +64,6 @@ Sololearn.
                     🍁Digital Image processing
                     🍁OpenCv
                     🍁Neural Networks
-                    
-🐼Extras           :  HTML
-                    CSS
-                    JAVASCRIPT
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)           
 <!---
