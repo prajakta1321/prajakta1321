@@ -2,14 +2,15 @@
   👀 A Machine Learning enthusiast
 
 
-- 🌱 I’m currently learning Python and Machine learning :octocat:
-- 🐼Besides , ML i also am good in HTML , CSS AND JAVASCRIPT
+- 🌱 I’m currently learning Python, Data Science and Machine learning  :octocat:
+- 🐼Besides , ML i also am good in SQL ,HTML , CSS AND JAVASCRIPT
 
 
 - 📫 How to reach me strawberrykim1620@gmail.com
 
 
 🐼languages         : python 🧑‍💻
+                      SQL Basics
                       HTML,  CSS,  JS
 
 
@@ -18,14 +19,20 @@
  ![My Skills](https://skillicons.dev/icons?i=vscode)
  
 🐼AI / ML platform  : colab ,
-Sololearn, Kaggle.
+                       Sololearn,
+                       Kaggle
+                       Bigquery
+                       
 
 
   
    
    
 🐼other platforms   : Visual studio code
- 
+                      R studio
+                      Tableau
+                      Power BI
+                      Looker Studio
 
 
 
@@ -35,6 +42,7 @@ Sololearn, Kaggle.
                     🌱matplotlib
                     🌱seaborn
                     🌱sklearn
+                    🌱 Scikit - learn
 
 
 
