@@ -18,10 +18,10 @@
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
  ![My Skills](https://skillicons.dev/icons?i=vscode)
  
-🐼AI / ML platform  : colab ,
+🐼AI / ML platform  : collaboratory,
                        Sololearn,
-                       Kaggle
-                       Bigquery
+                       Kaggle,
+                       Bigquery.
                        
 
 
@@ -36,7 +36,7 @@
 
 
 
-🐼SPECIALIZING :
+🐼 MORE :
 🌱python libraries  : numpy 
                     🌱pandas
                     🌱matplotlib
@@ -67,7 +67,7 @@
 
 
 🐼Artificial 
-🌱Intelligence     :  🍁Deep learning
+🌱Intelligence    : 🍁Deep learning
                     🍁computer vision
                     🍁Digital Image processing
                     🍁OpenCv
