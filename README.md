@@ -24,7 +24,8 @@
                        Kaggle,
                        Bigquery.
                        
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)     
+![My Skills](https://skillicons.dev/icons?i=django)
 
   
    
@@ -78,8 +79,7 @@ data bases :
                     🍁OpenCv
                     🍁Neural Networks
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)     
-![My Skills](https://skillicons.dev/icons?i=django)
+ 
  
 <!---
 prajakta1321/prajakta1321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
