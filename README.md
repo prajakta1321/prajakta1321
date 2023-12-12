@@ -17,8 +17,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
  ![My Skills](https://skillicons.dev/icons?i=vscode)
- ![My Skills](https://skillicons.dev/icons?i=mysql)
- ![My Skills](https://skillicons.dev/icons?i=django)
+ 
 
 🐼AI / ML platform  : collaboratory,
                        Sololearn,
@@ -50,8 +49,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)    
 [![My Skills](https://skillicons.dev/icons?i=sql)](https://skillicons.dev)
-    
-    
+![My Skills](https://skillicons.dev/icons?i=jupyter)
+![My Skills](https://skillicons.dev/icons?i=mongodb)
+![My Skills](https://skillicons.dev/icons?i=mariadb)    
 🐼machine learning  : 🌼Supervised ML
                     🌼clustering and regression
                     🌼linear regression
@@ -75,7 +75,10 @@
                     🍁OpenCv
                     🍁Neural Networks
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)           
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)     
+ ![My Skills](https://skillicons.dev/icons?i=mysql)
+ ![My Skills](https://skillicons.dev/icons?i=django)
+ 
 <!---
 prajakta1321/prajakta1321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
