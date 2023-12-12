@@ -17,7 +17,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
  ![My Skills](https://skillicons.dev/icons?i=vscode)
- 
+ ![My Skills](https://skillicons.dev/icons?i=mysql)
+ ![My Skills](https://skillicons.dev/icons?i=django)
 
 🐼AI / ML platform  : collaboratory,
                        Sololearn,
