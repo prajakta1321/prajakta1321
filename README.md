@@ -17,7 +17,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
  ![My Skills](https://skillicons.dev/icons?i=vscode)
-  <img src="./icons/Django.svg" width="18"> 
+ 
 
 🐼AI / ML platform  : collaboratory,
                        Sololearn,
@@ -48,7 +48,7 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)    
-    
+[![My Skills](https://skillicons.dev/icons?i=jupyter,kaggle, hackerrank)](https://skillicons.dev)
     
     
 🐼machine learning  : 🌼Supervised ML
