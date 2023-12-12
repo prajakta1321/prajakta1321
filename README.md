@@ -49,9 +49,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)    
 [![My Skills](https://skillicons.dev/icons?i=sql)](https://skillicons.dev)
-![My Skills](https://skillicons.dev/icons?i=jupyter)
+ 
+data bases :
+ ![My Skills](https://skillicons.dev/icons?i=mysql)
 ![My Skills](https://skillicons.dev/icons?i=mongodb)
-![My Skills](https://skillicons.dev/icons?i=mariadb)    
+ ![My Skills](https://skillicons.dev/icons?i=sql)
+    
 🐼machine learning  : 🌼Supervised ML
                     🌼clustering and regression
                     🌼linear regression
@@ -76,8 +79,7 @@
                     🍁Neural Networks
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)     
- ![My Skills](https://skillicons.dev/icons?i=mysql)
- ![My Skills](https://skillicons.dev/icons?i=django)
+![My Skills](https://skillicons.dev/icons?i=django)
  
 <!---
 prajakta1321/prajakta1321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
