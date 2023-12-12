@@ -17,7 +17,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
  ![My Skills](https://skillicons.dev/icons?i=vscode)
- 
+ ![image](https://github.com/prajakta1321/prajakta1321/assets/91279433/122f69c6-a257-4538-9edb-a29c0ddc3394)
+
 🐼AI / ML platform  : collaboratory,
                        Sololearn,
                        Kaggle,
