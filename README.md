@@ -48,7 +48,7 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)    
-[![My Skills](https://skillicons.dev/icons?i=jupyter,kaggle, hackerrank)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sql)](https://skillicons.dev)
     
     
 🐼machine learning  : 🌼Supervised ML
