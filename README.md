@@ -67,17 +67,7 @@ data bases :
                     🌼Data visualization
 
 
-
- 
-
-
-
-🐼Artificial 
-🌱Intelligence    : 🍁Deep learning
-                    🍁computer vision
-                    🍁Digital Image processing
-                    🍁OpenCv
-                    🍁Neural Networks
+     
 
  
  
