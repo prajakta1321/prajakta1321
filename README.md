@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning Python, Data Science and Machine learning  :octocat:
-- 🐼Besides , ML i also am good in SQL ,HTML , CSS AND JAVASCRIPT
+- 🐼Besides , ML i also am good in SQL ,HTML , CSS 
 
 
 - 📫 How to reach me strawberrykim1620@gmail.com
@@ -11,7 +11,7 @@
 
 🐼languages         : python 🧑‍💻
                       SQL Basics
-                      HTML,  CSS,  JS
+                      HTML,  CSS
 
 
 
@@ -21,6 +21,7 @@
 
 🐼AI / ML platform  : collaboratory,
                        Sololearn,
+                       Google Cloud Platform
                        Kaggle,
                        Bigquery.
                        
@@ -43,7 +44,6 @@
                     🌱pandas
                     🌱matplotlib
                     🌱seaborn
-                    🌱sklearn
                     🌱 Scikit - learn
 
 
