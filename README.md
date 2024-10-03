@@ -1,76 +1,66 @@
-- 👋 Hi, I’m prajakta  :octocat:
-  👀 A Machine Learning enthusiast
+# 👋 Hi, I’m Prajakta! :octocat:
 
+## 👀 About Me
+I am a **Machine Learning enthusiast** currently diving into Python, Data Science, and Machine Learning. I enjoy working with data and learning new technologies!
 
-- 🌱 I’m currently learning Python, Data Science and Machine learning  :octocat:
-- 🐼Besides , ML i also am good in SQL ,HTML , CSS 
+### 🌱 Learning Journey
+- **Currently Learning**: Python, Data Science, and Machine Learning
+- **Other Skills**: SQL, HTML, CSS
 
+## 🐼 Skills
+### Languages
+- Python
+- SQL (Basics)
+- HTML, CSS
 
-- 📫 How to reach me strawberrykim1620@gmail.com
+### AI / ML Platforms
+- Google Colab
+- Sololearn
+- Google Cloud Platform
+- Kaggle
+- BigQuery
 
+### Tools
+- Visual Studio Code
+- R Studio
+- Tableau
+- Power BI
+- Looker Studio
 
-🐼languages         : python 🧑‍💻
-                      SQL Basics
-                      HTML,  CSS
+### Python Libraries
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
 
+### Machine Learning Techniques
+- Supervised Learning
+- Clustering and Regression
+- Linear Regression
+- Logistic Regression
+- Random Forest
+- Tree-Based Models (Decision Trees, KNN, Support Vector Machines)
+- Statistics and Probability
+- Data Visualization
 
+## 🐼 Databases
+- ![My Skills](https://skillicons.dev/icons?i=mysql)
+- ![My Skills](https://skillicons.dev/icons?i=mongodb)
+- ![My Skills](https://skillicons.dev/icons?i=sql)
 
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
- ![My Skills](https://skillicons.dev/icons?i=vscode)
- 
+## 📫 How to Reach Me
+Feel free to contact me at: [strawberrykim1620@gmail.com](mailto:strawberrykim1620@gmail.com)
 
-🐼AI / ML platform  : collaboratory,
-                       Sololearn,
-                       Google Cloud Platform
-                       Kaggle,
-                       Bigquery.
-                       
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript)](https://skillicons.dev)     
-![My Skills](https://skillicons.dev/icons?i=django)
+## 🔗 Connect with Me
+- [LinkedIn](your-linkedin-profile-url)
+- [Twitter](your-twitter-url)
 
-  
-   
-   
-🐼other platforms   : Visual studio code
-                      R studio
-                      Tableau
-                      Power BI
-                      Looker Studio
+## 🐼 More About Me
+I love to explore new technologies and improve my skills continuously. I believe in the power of data-driven solutions and strive to contribute to impactful projects.
 
+---
 
-
-🐼 MORE :
-🌱python libraries  : numpy 
-                    🌱pandas
-                    🌱matplotlib
-                    🌱seaborn
-                    🌱 Scikit - learn
-
-
-
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)    
-[![My Skills](https://skillicons.dev/icons?i=sql)](https://skillicons.dev)
- 
-data bases :
- ![My Skills](https://skillicons.dev/icons?i=mysql)
-![My Skills](https://skillicons.dev/icons?i=mongodb)
- ![My Skills](https://skillicons.dev/icons?i=sql)
-    
-🐼machine learning  : 🌼Supervised ML
-                    🌼clustering and regression
-                    🌼linear regression
-                    🌼logistic regression
-                    🌼random forest
-                    🌼tree based models ( decision tree , knn, support vector machines)
-                    🌼statistics
-                    🌼probability
-                    🌼Data visualization
-
-
-     
-
- 
- 
 <!---
 prajakta1321/prajakta1321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
