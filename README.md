@@ -53,10 +53,6 @@ I am a **Machine Learning enthusiast** currently diving into Artificial Intellig
 ## 📫 How to Reach Me
 Feel free to contact me at: [strawberrykim1620@gmail.com](mailto:strawberrykim1620@gmail.com)
 
-## 🔗 Connect with Me
-- [LinkedIn](your-linkedin-profile-url)
-
-
 ## 🐼 More About Me##
 
 I love to explore new technologies and improve my skills continuously. I believe in the power of data-driven solutions and strive to contribute to impactful projects.
